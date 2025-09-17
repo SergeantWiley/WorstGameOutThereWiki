@@ -15,13 +15,12 @@ achievements if you don't have the game
 * True Insanity - Obtained by clicking the try again 150 times
 * Carpal Tunnel - Obtained by clicking the try again 500 times in one session
 * No refund - Obtained by playing the game for 2 hours or having it for 14 days
-* Is it Human? - Obtained by clicking the Try Again with 20 clicks per second
-* Beta Achievements - Good luck getting this one. Only Available during Initial Development
-* Test Achievements - Only obtained by being a Beta Tester
-* Nothing Better To do - Obtained by having the game open for 
 
-
+* Nothing Better To do - Obtained by having the game open for 8 hours
 
 If You obtain any of these let alone the first one, I really hope it was worth it for you. 
 
-Additionally, achievements will be added later. If you do a push request with 5 updated achievements of this readme, and is accepted, and implemented, if you do not already have the game, you may be granted a free copy of the game. 
+##Achievements to remove
+* Is it Human? - Obtained by clicking the Try Again with 20 clicks per second
+* Beta Achievements - Good luck getting this one. Only Available during Initial Development
+* Test Achievements - Only obtained when helping testing new versions before official launch. 
